@@ -8,7 +8,8 @@ The primary goal of this dataset is to develop a predictive model that can ident
 
  In this assignment, you will work with the "Cerebral Stroke Prediction" dataset, which is characterized by class imbalance. Your goal is to develop a machine learning model to predict the occurrence of cerebral strokes and evaluate its performance while addressing the class imbalance challenge.
 
-#Problem statement:
+# Problem statement:
+
 What are the main factors that contribute to stroke occurrence in the dataset?
 Can we effectively identify individuals at risk of experiencing cerebral strokes based on their attributes?
 How well does the model perform in detecting stroke occurrence while considering the class imbalance?
